@@ -25,12 +25,14 @@
 
 ![CODEBY - Cart Test](github/projectgif.gif)
 
+## Outra versão mais completa do projeto: <a  target="_blanck" href="https://github.com/eulazzo/cart_candy_v1">Clique aqui</a>
+
 * ## Features
   * Consumir api `abaixo.json`mostrar todos os produtos no `meu carrinho`,  como a soma total é menor que R$10 a mensagem frete grátis não é exibida
   * Consumir api `acima.json`  listar os produtos no meu `meu carinho`, como a soma total é superior a R$10 a mensagem de frete grátis é exibida. 
 
 ## Arquivo json foi alocado à pasta `public` do projeto.
-## Outra versão mais completa do projeto: <a  target="_blanck" href="https://github.com/eulazzo/cart_candy_v1">Link</a>
+ 
 
 ## Deployed On Vercel
 #### Click on the button below to check it out
